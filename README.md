@@ -41,4 +41,9 @@
   <td>Предсказать дату следующего ТО, и пробег на эту дату</td>
   <td>Python,Pandas,Matplotlib,Scikit-learn</td>
 </tr>
+<tr>
+  <td><a href ="https://github.com/AndreyDanilin/Study_projects/tree/main/Test_task_2">Тестовое Задание2</a></td>
+  <td>Определить цвет автомобиля по фото</td>
+  <td>Python,Keras,Tensorflow,matplotlib</td>
+</tr>
 </table>
