@@ -36,4 +36,9 @@
 ему будут предложены промокоды и специальные условия.</td>
   <td>Python,Pandas,Matplotlib,Scikit-learn, исследовательский анализ, визуализация данных, lightgbm, catboost</td>
 </tr>
+<tr>
+  <td><a href ="https://github.com/AndreyDanilin/Study_projects/tree/main/Test_task">Тестовое Задание</a></td>
+  <td>Предсказать дату следующего ТО, и пробег на эту дату</td>
+  <td>Python,Pandas,Matplotlib,Scikit-learn</td>
+</tr>
 </table>
