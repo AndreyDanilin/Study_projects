@@ -4,7 +4,12 @@
   <th>Название проекта</th>
   <th>Задачи проекта</th>
   <th>Навыки и инструменты</th>
-</tr> 
+</tr>
+<tr>
+  <td><a href="https://github.com/AndreyDanilin/Study_projects/tree/main/Practicum1">Поиск похожих товаров для маркетплейса</a></td>
+  <td>Разработать приложение, которое будет находить похожие товары</td>
+  <td>Python, Pandas, FAISS, catboost, docker</td>
+</tr>
 <tr>
   <td><a href="https://github.com/AndreyDanilin/Study_projects/tree/main/Practicum1">Продажа 
 квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
@@ -15,7 +20,7 @@
   <td><a href="https://github.com/AndreyDanilin/Study_projects/tree/main/Practicum-cv">Обработка 
 фотографий покупателя</a></td>
   <td>Определение возраста по фотографии</td>
-  <td>Python,Keras</td>
+  <td>Python,TensorFlow</td>
 </tr>
 <tr>
   <td><a href ="https://github.com/AndreyDanilin/Study_projects/tree/main/Practicum2">Сборный 
