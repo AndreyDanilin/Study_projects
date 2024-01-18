@@ -6,7 +6,7 @@
   <th>Навыки и инструменты</th>
 </tr>
 <tr>
-  <td><a href="https://github.com/AndreyDanilin/Study_projects/tree/main/Practicum1">Поиск похожих товаров для маркетплейса</a></td>
+  <td><a href="https://github.com/AndreyDanilin/Study_projects/tree/main/Matching_project">Поиск похожих товаров для маркетплейса</a></td>
   <td>Разработать приложение, которое будет находить похожие товары</td>
   <td>Python, Pandas, FAISS, catboost, docker</td>
 </tr>
